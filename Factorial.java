@@ -4,7 +4,7 @@ public class Factorial {
            System.out.println(sum(i));
        }
     }
-
+//1-n 阶乘和
     public static long sum(long n) {
         long sum = 0 ;
         long a0 = 1;
